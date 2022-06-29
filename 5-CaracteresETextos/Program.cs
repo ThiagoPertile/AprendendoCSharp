@@ -18,6 +18,20 @@ class Programa
         Console.WriteLine(letra);
 
 
+        string primeiraFrase = ("Alura - curso de tecnologia");
+
+        Console.WriteLine(primeiraFrase);
+
+        string cursos = @"Cursos disponiveis:
+- Go
+- C#
+- Python
+-Java";
+
+
+        Console.WriteLine(cursos);
+
+
         Console.WriteLine("Press ENTER para sair...");
         Console.ReadLine();
     }

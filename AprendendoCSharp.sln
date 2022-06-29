@@ -7,11 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{55091805-1778-4CD1-863C-25520909A5F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariavelPontoFlutuante", "CriandoVariavelPontoFlutuante\3-CriandoVariavelPontoFlutuante.csproj", "{5E037B06-6B6C-4F42-8A91-F5588AF3E04F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariavelPontoFlutuante", "CriandoVariavelPontoFlutuante\3-CriandoVariavelPontoFlutuante.csproj", "{5E037B06-6B6C-4F42-8A91-F5588AF3E04F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-conversoesEOutrosTipos", "4-conversoesEOutrosTipos\4-conversoesEOutrosTipos.csproj", "{E2DD308D-2D52-4B09-A1B8-81CF7812BEA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-conversoesEOutrosTipos", "4-conversoesEOutrosTipos\4-conversoesEOutrosTipos.csproj", "{E2DD308D-2D52-4B09-A1B8-81CF7812BEA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{279469D5-D890-4506-AB09-3FF1DC705F48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{279469D5-D890-4506-AB09-3FF1DC705F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicaoDeVariaveis", "6-AtribuicaoDeVariaveis\6-AtribuicaoDeVariaveis.csproj", "{DD07FEC6-E55F-469B-9D11-3FA34F65538F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99-testes", "99-testes\99-testes.csproj", "{FBC8A092-815E-4CBC-B28A-AB94B491FB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{B177041B-DF11-4942-93CD-33AE7C5FD5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{A6614EAA-75E9-4378-959D-0FFB66EDE5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{547D179C-6DE6-4C45-9A18-C0910877F291}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{279469D5-D890-4506-AB09-3FF1DC705F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279469D5-D890-4506-AB09-3FF1DC705F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279469D5-D890-4506-AB09-3FF1DC705F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD07FEC6-E55F-469B-9D11-3FA34F65538F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD07FEC6-E55F-469B-9D11-3FA34F65538F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD07FEC6-E55F-469B-9D11-3FA34F65538F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD07FEC6-E55F-469B-9D11-3FA34F65538F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC8A092-815E-4CBC-B28A-AB94B491FB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC8A092-815E-4CBC-B28A-AB94B491FB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC8A092-815E-4CBC-B28A-AB94B491FB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC8A092-815E-4CBC-B28A-AB94B491FB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B177041B-DF11-4942-93CD-33AE7C5FD5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B177041B-DF11-4942-93CD-33AE7C5FD5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B177041B-DF11-4942-93CD-33AE7C5FD5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B177041B-DF11-4942-93CD-33AE7C5FD5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6614EAA-75E9-4378-959D-0FFB66EDE5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6614EAA-75E9-4378-959D-0FFB66EDE5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6614EAA-75E9-4378-959D-0FFB66EDE5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6614EAA-75E9-4378-959D-0FFB66EDE5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547D179C-6DE6-4C45-9A18-C0910877F291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547D179C-6DE6-4C45-9A18-C0910877F291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547D179C-6DE6-4C45-9A18-C0910877F291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547D179C-6DE6-4C45-9A18-C0910877F291}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
